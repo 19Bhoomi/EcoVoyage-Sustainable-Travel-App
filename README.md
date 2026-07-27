@@ -1,4 +1,4 @@
-# ✈️ EcoVoyage: Designing a Sustainable Travel App
+# EcoVoyage: Designing a Sustainable Travel App
 
 A travel app concept taken from research to tested prototype, using the full design
 thinking process: empathize, define, ideate, prototype, and test.
@@ -51,8 +51,5 @@ Crazy 8s, storyboarding, user testing
 ## Team
 
 Built during the MSc in Business Analytics at University College Cork by:
-
-Bhoomika Ravi Poojari · Eoin Padraig Finn · Megha Shree Hebaligere Madhu ·
-Rahul Kumar Padebettu · Shamanth Gopinatha Bharadwaj
 
 *This repository is maintained by Bhoomika Ravi Poojari.*
