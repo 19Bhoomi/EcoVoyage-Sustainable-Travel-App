@@ -3,8 +3,6 @@
 A travel app concept taken from research to tested prototype, using the full design
 thinking process: empathize, define, ideate, prototype, and test.
 
-![EcoVoyage](ecovoyage-logo.png)
-
 ## Objective
 
 Design a travel product that helps people plan trips with sustainability in mind,
