@@ -1,4 +1,4 @@
-# ✈️ EcoVoyage: Designing a Sustainable Travel App
+# EcoVoyage: Designing a Sustainable Travel App
 
 A travel app concept taken from research to tested prototype, using the full design
 thinking process: empathize, define, ideate, prototype, and test.
@@ -43,8 +43,6 @@ A tested Figma prototype of a sustainable travel companion, plus validated insig
 about how travellers weigh sustainability against cost and convenience when planning
 a trip.
 
-<!-- 🔗 Optional: [View the interactive prototype in Figma](FIGMA_PUBLIC_LINK) -->
-
 ## Tools
 
 Figma · Design thinking methods: stakeholder mapping, empathy maps, journey mapping,
@@ -52,9 +50,6 @@ Crazy 8s, storyboarding, user testing
 
 ## Team
 
-Built during the MSc in Business Analytics at University College Cork by:
-
-Bhoomika Ravi Poojari · Eoin Padraig Finn · Megha Shree Hebaligere Madhu ·
-Rahul Kumar Padebettu · Shamanth Gopinatha Bharadwaj
+Built during the MSc in Business Analytics at University College Cork by a group of 6 people
 
 *This repository is maintained by Bhoomika Ravi Poojari.*
