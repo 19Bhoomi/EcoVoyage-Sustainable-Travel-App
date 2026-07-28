@@ -1,4 +1,4 @@
-# EcoVoyage: Designing a Sustainable Travel App
+# ✈️ EcoVoyage: Designing a Sustainable Travel App
 
 A travel app concept taken from research to tested prototype, using the full design
 thinking process: empathize, define, ideate, prototype, and test.
@@ -10,34 +10,38 @@ grounded in what real travellers actually need rather than assumptions.
 
 ## The approach
 
-1. **Research**: surveys and interviews with travellers, plus stakeholder mapping
+**1. Empathize**: surveys and interviews with travellers, plus stakeholder mapping to
+understand who the product serves and who it affects.
 
-![Stakeholder map](stakeholder-map.png)
+![Stakeholder map](images/stakeholder-map.png)
 
-2. **Define**: empathy maps and customer journey maps capturing traveller needs and
-   pain points
+**2. Define**: empathy maps and customer journey maps to capture traveller needs,
+motivations, and pain points across the full trip lifecycle.
 
-![Empathy map](empathy-map.png)
-![Customer journey map](customer-journey-map.png)
+![Empathy map](images/empathy-map.png)
+![Customer journey map](images/customer-journey-map.png)
 
-3. **Ideate**: rapid sketching (Crazy 8s), team voting, and storyboarding to
-   shortlist concepts
+**3. Ideate**: rapid Crazy 8s sketching and team voting to shortlist the strongest
+concepts, then storyboarding to think them through as real user experiences.
 
-4. **Prototype**: from hand-drawn wireframes to interactive Figma prototypes
+![Crazy 8 shortlisted ideas](images/crazy-8.png)
+![Storyboards of chosen ideas](images/storyboard.png)
 
-![Prototype sketches](prototype-sketches.png)
-![App UI screens](app-ui-screens.png)
+**4. Prototype**: from hand-drawn wireframes to a polished, interactive Figma design.
 
-5. **Test**: user feedback surveys on the app UI, with findings folded back into the
-   designs, plus concepts for AI-powered features like research acceleration and
-   confidence-scored recommendations
+![Prototype wireframes](images/prototype-wireframe.png)
+![Figma UI design](images/figma-ui.png)
 
-![AI feature concepts](ai-features.png)
+**5. Test**: a user feedback survey on the app UI, with findings folded back into the
+design.
+
+![App UI feedback survey](images/app-ui-feedback.png)
 
 ## The outcome
 
-Tested Figma prototypes of a sustainable travel companion and a set of validated
-insights about how travellers weigh sustainability against cost and convenience.
+A tested Figma prototype of a sustainable travel companion, plus validated insights
+about how travellers weigh sustainability against cost and convenience when planning
+a trip.
 
 <!-- 🔗 Optional: [View the interactive prototype in Figma](FIGMA_PUBLIC_LINK) -->
 
@@ -49,5 +53,8 @@ Crazy 8s, storyboarding, user testing
 ## Team
 
 Built during the MSc in Business Analytics at University College Cork by:
+
+Bhoomika Ravi Poojari · Eoin Padraig Finn · Megha Shree Hebaligere Madhu ·
+Rahul Kumar Padebettu · Shamanth Gopinatha Bharadwaj
 
 *This repository is maintained by Bhoomika Ravi Poojari.*
